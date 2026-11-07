@@ -19,20 +19,16 @@ Tout est procédural : aucun modèle 3D ni texture à télécharger, tout est ca
 
 ### Installation
 
-1. Ouvrez le Terminal et placez-vous dans le dossier du projet :
-   ```bash
-   cd ~/Desktop/site3D
-   ```
-2. Installez les dépendances (1 à 2 minutes la première fois) :
+1. Installez les dépendances (1 à 2 minutes la première fois) :
    ```bash
    npm install
    ```
-3. Lancez le serveur de développement :
+2. Lancez le serveur de développement :
    ```bash
    npm run dev
    ```
    Le navigateur s'ouvre automatiquement sur `http://localhost:5173`. Sinon, ouvrez cette adresse à la main.
-4. Choisissez **Entrer** (ou **Entrer en mode calme**), puis faites défiler.
+3. Choisissez **Entrer** (ou **Entrer en mode calme**), puis faites défiler.
 
 Toute modification d'un fichier dans `src/` se recharge instantanément (Hot Module Replacement).
 
